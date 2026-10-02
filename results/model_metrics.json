@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "n_train": 25,
+  "n_test": 11,
+  "accuracy": 0.6363636363636364,
+  "balanced_accuracy": 0.6666666666666666,
+  "roc_auc": 0.6333333333333333,
+  "confusion_matrix": [
+    [
+      2,
+      4
+    ],
+    [
+      0,
+      5
+    ]
+  ],
+  "note": "Exploratory model only; high engagement is defined relative to each country's median."
+}

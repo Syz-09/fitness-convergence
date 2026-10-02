@@ -1,0 +1,2 @@
+file,rows_checked,col_video_id,col_title,col_country,col_views,col_likes,col_comments,col_publish_time
+data/sample/mini_fixture.csv,36,video_id,title,country,views,likes,comments,publish_time

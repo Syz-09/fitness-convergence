@@ -1,0 +1,37 @@
+video_id,title,views,likes,comments,publish_time,country,source_file,workout,body,nutrition,wellness,fitness_related,engagement_rate,title_length,title_words
+test001,20 Minute Full Body Workout,120000,6200,340,2026-01-01 12:00:00+00:00,DE,mini_fixture.csv,1,0,0,0,1,0.0545,27,5
+test002,Protein Breakfast Ideas,90000,5100,210,2026-01-01 12:00:00+00:00,DE,mini_fixture.csv,0,0,1,0,1,0.059,23,3
+test003,Yoga for Beginners,80000,4200,180,2026-01-01 12:00:00+00:00,DE,mini_fixture.csv,0,0,0,1,1,0.05475,18,3
+test004,Daily News Update,200000,3000,500,2026-01-01 12:00:00+00:00,DE,mini_fixture.csv,0,0,0,0,0,0.0175,17,3
+test005,Strength Training Basics,110000,5800,260,2026-01-01 12:00:00+00:00,DE,mini_fixture.csv,1,0,0,0,1,0.05509090909090909,24,3
+test006,How to Lose Weight Safely,100000,4900,300,2026-01-01 12:00:00+00:00,DE,mini_fixture.csv,0,1,0,0,1,0.052,25,5
+test007,Music Live Session,500000,12000,900,2026-01-01 12:00:00+00:00,DE,mini_fixture.csv,0,0,0,0,0,0.0258,18,3
+test008,Pilates Core Routine,70000,4000,150,2026-01-01 12:00:00+00:00,DE,mini_fixture.csv,0,0,0,1,1,0.05928571428571429,20,3
+test009,Creatine Explained,60000,3500,170,2026-01-01 12:00:00+00:00,DE,mini_fixture.csv,0,0,1,0,1,0.06116666666666667,18,2
+test010,Football Highlights,300000,9000,700,2026-01-01 12:00:00+00:00,DE,mini_fixture.csv,0,0,0,0,0,0.03233333333333333,19,2
+test011,Morning Stretch Mobility,65000,3100,130,2026-01-01 12:00:00+00:00,DE,mini_fixture.csv,0,0,0,1,1,0.049692307692307695,24,3
+test012,Easy Healthy Food Prep,75000,3600,160,2026-01-01 12:00:00+00:00,DE,mini_fixture.csv,0,0,1,0,1,0.050133333333333335,22,4
+test013,10 Minute Home Workout,150000,9000,500,2026-01-01 12:00:00+00:00,IN,mini_fixture.csv,1,0,0,0,1,0.06333333333333334,22,4
+test014,Weight Loss Exercise,140000,8500,480,2026-01-01 12:00:00+00:00,IN,mini_fixture.csv,1,1,0,0,1,0.06414285714285714,20,3
+test015,High Protein Meal Prep,130000,7000,350,2026-01-01 12:00:00+00:00,IN,mini_fixture.csv,0,0,1,0,1,0.05653846153846154,22,4
+test016,Yoga Morning Routine,160000,9500,600,2026-01-01 12:00:00+00:00,IN,mini_fixture.csv,0,0,0,1,1,0.063125,20,3
+test017,Movie Trailer,800000,20000,1500,2026-01-01 12:00:00+00:00,IN,mini_fixture.csv,0,0,0,0,0,0.026875,13,2
+test018,Gym Motivation Training,170000,10000,550,2026-01-01 12:00:00+00:00,IN,mini_fixture.csv,1,0,0,0,1,0.062058823529411763,23,3
+test019,Healthy Diet Tips,125000,7200,390,2026-01-01 12:00:00+00:00,IN,mini_fixture.csv,0,0,1,0,1,0.06072,17,3
+test020,Cricket Highlights,900000,25000,2000,2026-01-01 12:00:00+00:00,IN,mini_fixture.csv,0,0,0,0,0,0.03,18,2
+test021,Six Pack Abs Workout,180000,11000,610,2026-01-01 12:00:00+00:00,IN,mini_fixture.csv,1,1,0,0,1,0.0645,20,4
+test022,Meditation for Sleep,115000,6500,300,2026-01-01 12:00:00+00:00,IN,mini_fixture.csv,0,0,0,1,1,0.059130434782608696,20,3
+test023,Strength Exercise at Home,145000,8200,420,2026-01-01 12:00:00+00:00,IN,mini_fixture.csv,1,0,0,0,1,0.05944827586206897,25,4
+test024,New Song Release,700000,18000,1400,2026-01-01 12:00:00+00:00,IN,mini_fixture.csv,0,0,0,0,0,0.027714285714285716,16,3
+test025,Fitness Workout at Home,100000,7000,450,2026-01-01 12:00:00+00:00,PK,mini_fixture.csv,1,0,0,0,1,0.0745,23,4
+test026,Healthy Diet Plan,95000,6000,300,2026-01-01 12:00:00+00:00,PK,mini_fixture.csv,0,0,1,0,1,0.06631578947368422,17,3
+test027,Lose Weight Workout,105000,7500,470,2026-01-01 12:00:00+00:00,PK,mini_fixture.csv,1,1,0,0,1,0.0759047619047619,19,3
+test028,Yoga Stretch Routine,80000,5200,250,2026-01-01 12:00:00+00:00,PK,mini_fixture.csv,0,0,0,1,1,0.068125,20,3
+test029,Drama Episode,600000,15000,1200,2026-01-01 12:00:00+00:00,PK,mini_fixture.csv,0,0,0,0,0,0.027,13,2
+test030,Protein Diet Guide,90000,5900,280,2026-01-01 12:00:00+00:00,PK,mini_fixture.csv,0,0,1,0,1,0.06866666666666667,18,3
+test031,Gym Strength Training,110000,7800,500,2026-01-01 12:00:00+00:00,PK,mini_fixture.csv,1,0,0,0,1,0.07545454545454545,21,3
+test032,News Headlines,250000,4000,650,2026-01-01 12:00:00+00:00,PK,mini_fixture.csv,0,0,0,0,0,0.0186,14,2
+test033,Body Transformation Tips,85000,5600,310,2026-01-01 12:00:00+00:00,PK,mini_fixture.csv,0,1,0,0,1,0.06952941176470588,24,3
+test034,Meditation Wellness,70000,4700,220,2026-01-01 12:00:00+00:00,PK,mini_fixture.csv,0,0,0,1,1,0.07028571428571428,19,2
+test035,Cardio Exercise Routine,92000,6100,330,2026-01-01 12:00:00+00:00,PK,mini_fixture.csv,1,0,0,0,1,0.06989130434782609,23,3
+test036,Music Performance,400000,12000,900,2026-01-01 12:00:00+00:00,PK,mini_fixture.csv,0,0,0,0,0,0.03225,17,2
