@@ -10,6 +10,12 @@ Are exercise practices, body ideals, and wellness consumption becoming more alik
 
 > **Scope of the evidence:** The included results use **36 synthetic example videos** from Germany, India, and Pakistan to demonstrate the analysis pipeline. They do not establish real-world cultural convergence. The current implementation compares one static sample; it does not measure change over time or analyze health statistics or consumer spending.
 
+### From a social question to a mathematical object
+
+The main research challenge is that “fitness culture” has no shared unit of measurement. This project defines a deliberately narrow observable: each country's prevalence across four themes in fitness-related video titles. It turns a question about cultural resemblance into a comparison between country vectors, while keeping the meaning of each component visible. Applying the same cleaning and labeling rules across countries and resampling videos within each country help test whether a similarity estimate depends heavily on the particular sample. This is the mathematical abstraction and statistical scrutiny demonstrated by the current analysis.
+
+A fuller study of **convergence over time** would need comparable observation periods and source definitions, checks of variable meanings and distributions, harmonized scales, subgroup comparisons, and alternative indicators. Online attention and independently collected health statistics should be analyzed separately. These are proposed extensions, **not completed analyses in this repository**.
+
 ### Research workflow
 
 1. **Prepare the data:** Match alternative column names for titles, countries, views, likes, and comments; remove invalid and duplicate records.
@@ -67,6 +73,12 @@ Run the cells in order from the repository root. The default setting, `USE_PUBLI
 不同国家的健身方式、身体审美和健康消费是否正在趋同？这个宽泛问题没有现成的统一指标。本项目先研究其中一个可测量的部分：**各国热门视频中的健身内容是否具有相似的主题结构**。分析将视频标题归纳为 **训练、体态、营养、身心健康** 四个可重叠的维度，以各主题在本国健身视频中的出现比例构成国家向量，再用余弦相似度比较国家之间的主题分布，并通过自助重采样检查结果对样本变动的敏感程度。
 
 > **研究范围**：仓库中的结果来自德国、印度、巴基斯坦共 36 条**合成示例视频**，用于演示和验证分析流程。它们不能证明现实中的健身文化已经趋同。当前实现比较的是一个静态样本，没有估计随时间变化的趋同趋势，也没有使用健康统计或消费数据。
+
+### 从社会问题到数学对象
+
+这项研究的主要挑战在于，“健身文化”没有统一的计量单位。本项目因此选取一个范围明确的可观测对象：各国健身相关视频标题中四类主题的出现比例。由此，“文化是否相似”被转化为国家向量之间的比较，同时保留了每个向量分量的具体含义。对各国样本采用一致的清洗和标记规则，并在各国内重采样，可以检查相似度估计是否过度依赖当前样本。这体现了从现实问题到数学表达的抽象过程，也要求审视指标含义与统计不确定性。
+
+若要进一步研究**随时间的趋同**，还需对齐不同国家和时期的观察窗口与数据来源，核查变量定义和分布，协调尺度，开展分组比较，并用替代指标检验结论。网络关注度与独立采集的健康统计也应分开分析。这些属于后续研究方案，**并非本仓库已经完成的分析**。
 
 ### 研究流程
 
